@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">hey there 👋 i'm samyak</h1>
 
 <p align="center">
