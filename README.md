@@ -14,6 +14,10 @@ cs student • software developer • professional debugger
 - trying to write clean code and occasionally succeeding
 
 ---
+### Note
+created this profile as a clean space for professional work, projects, and things i’m genuinely proud of building.
+
+---
 
 ### tech stack
 
