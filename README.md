@@ -1,53 +1,53 @@
-````md id="pnkg2v"
-<h1 align="center">Hey there 👋 I'm Samyak</h1>
+````md
+<h1 align="center">hey there 👋 i'm samyak</h1>
 
 <p align="center">
-  CS Student • DSA Enthusiast • Learning by Building
+  cs student • dsa enthusiast • learning by building
 </p>
 
 <p align="center">
-  Interested in Algorithms, Systems, and Building Cool Things with Code
+  interested in algorithms, systems, and building cool things with code
 </p>
 
 ---
 
-### About Me
+### about me
 
 - currently exploring systems programming, databases, and web development
-- enjoy building real-world projects with C, Python, and JavaScript
+- enjoy building real-world projects with c, python, and javascript
 - interested in software engineering and intelligent systems
-- strong interest in problem solving, DSA, and out-of-the-box thinking
+- strong interest in problem solving, dsa, and out-of-the-box thinking
 - trying to write clean code and occasionally succeeding
 
 ---
 
-### Note
+### note
 
-> Created this profile as a clean space for professional work, projects, and things I'm genuinely proud of building — separate from my GitHub chaos era 🙂
+> created this profile as a clean space for professional work, projects, and things i'm genuinely proud of building — separate from my github chaos era 🙂
 
 ---
 
-### Tech Stack
+### tech stack
 
 ```txt
-Languages    : C • Python • Java • C++ • SQL • JavaScript • TypeScript
-Web          : HTML • CSS • JavaScript
-Tools        : VSCode • IntelliJ • Git • GitHub
-Concepts     : Data Structures • OOP • DBMS • Operating Systems
+languages    : c • python • java • c++ • sql • javascript • typescript
+web          : html • css • javascript
+tools        : vscode • intellij • git • github
+concepts     : data structures • oop • dbms • operating systems
 ````
 
 ---
 
-### Featured Projects
+### featured projects
 
-✈️ Air Traffic Control Simulation
-⚡ Intelligent EV Charging System
-🗄️ NoSQL Database Design
-🎟️ Event Management System
+✈️ air traffic control simulation
+⚡ intelligent ev charging system
+🗄️ nosql database design
+🎟️ event management system
 
 ---
 
-### Currently
+### currently
 
 * building projects
 * improving problem solving
@@ -57,6 +57,6 @@ Concepts     : Data Structures • OOP • DBMS • Operating Systems
 ---
 
 <p align="center">
-  Thanks for stopping by :)
+  thanks for stopping by :)
 </p>
 ```
