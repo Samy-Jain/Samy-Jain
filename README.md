@@ -16,7 +16,7 @@ cs student • software developer • professional debugger
 ---
 ### Note
 Created this profile as a clean space for professional work, projects, and things i’m genuinely proud of building.
-Keeping my github chaos era seperate 🙂
+Keeping my github chaos era seperate 🙂.
 
 ---
 
