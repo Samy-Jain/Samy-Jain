@@ -1,7 +1,12 @@
+````md id="pnkg2v"
 <h1 align="center">Hey there 👋 I'm Samyak</h1>
 
 <p align="center">
-cs student • aspiring software developer • dsa enthusiast • problem solver
+  CS Student • DSA Enthusiast • Learning by Building
+</p>
+
+<p align="center">
+  Interested in Algorithms, Systems, and Building Cool Things with Code
 </p>
 
 ---
@@ -9,38 +14,49 @@ cs student • aspiring software developer • dsa enthusiast • problem solver
 ### About Me
 
 - currently exploring systems programming, databases, and web development
-- enjoy building real-world projects with c, python, and javascript
+- enjoy building real-world projects with C, Python, and JavaScript
 - interested in software engineering and intelligent systems
+- strong interest in problem solving, DSA, and out-of-the-box thinking
 - trying to write clean code and occasionally succeeding
 
 ---
+
 ### Note
-Created this profile as a clean space for professional work, projects, and things i’m genuinely proud of building and keeping my github chaos era seperate 🙂.
+
+> Created this profile as a clean space for professional work, projects, and things I'm genuinely proud of building — separate from my GitHub chaos era 🙂
 
 ---
 
-### tech stack
+### Tech Stack
 
 ```txt
-languages    : c • python • java • c++ • sql • javascript • typescript
-web          : html • css • javascript
-tools        : vscode • intellij • git • github
-concepts     : data structures • oop • dbms • operating systems
-```
+Languages    : C • Python • Java • C++ • SQL • JavaScript • TypeScript
+Web          : HTML • CSS • JavaScript
+Tools        : VSCode • IntelliJ • Git • GitHub
+Concepts     : Data Structures • OOP • DBMS • Operating Systems
+````
 
 ---
 
-### featured projects
+### Featured Projects
 
-✈️ Air Traffic Control Simulation  
-⚡ Intelligent EV Charging System  
-🗄️ NoSQL Database Design  
+✈️ Air Traffic Control Simulation
+⚡ Intelligent EV Charging System
+🗄️ NoSQL Database Design
 🎟️ Event Management System
 
 ---
 
-### currently
+### Currently
 
-- building projects
-- improving problem solving
-- learning new technologies one bug at a time
+* building projects
+* improving problem solving
+* learning new technologies one bug at a time
+* debugging first, questioning life later
+
+---
+
+<p align="center">
+  Thanks for stopping by :)
+</p>
+```
