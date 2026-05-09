@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Samyak</h1>
 
 <p align="center">
-cs student • software developer • professional debugger
+cs student • aspiring software developer • dsa enthusiast • problem solver
 </p>
 
 ---
