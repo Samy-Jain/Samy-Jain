@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">hey there 👋 i'm samyak</h1>
 
-<!--
-**Samy-Jain/Samy-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+cs student • software developer • professional debugger
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about me
+
+- currently exploring systems programming, databases, and web development
+- enjoy building real-world projects with c, python, and javascript
+- interested in software engineering and intelligent systems
+- trying to write clean code and occasionally succeeding
+
+---
+
+### tech stack
+
+```txt
+languages    : c • python • java • c++ • sql • javascript • typescript
+web          : html • css • javascript
+tools        : vscode • intellij • git • github
+concepts     : data structures • oop • dbms • operating systems
+```
+
+---
+
+### featured projects
+
+✈️ Air Traffic Control Simulation  
+⚡ Intelligent EV Charging System  
+🗄️ NoSQL Database Design  
+🎟️ Event Management System
+
+---
+
+### currently
+
+- building projects
+- improving problem solving
+- learning new technologies one bug at a time
